@@ -5,6 +5,3 @@
 - 👯 I’m looking to collaborate on research projects, machine learning, python scripting, openFOAM
 - 🤔 I’m looking for help with openFOAM 
 - 💬 Ask me about chemical physics, phase transitions, statistical mechanics, fluid dynamics, and thermodynamics
-- 📫 How to reach me: patrick.otoole@ifsw.uni-stuttgart.de
-- ⚡ Fun fact: ...
-
