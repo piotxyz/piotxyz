@@ -11,13 +11,13 @@
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.bash.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9pDzL7hgzhBGXhUZFTuvbCOzPD9s1oghoWfD14lccHu0hzxAoSdOHfrIDwp7slVPPiWs&usqp=CAU" width="36" height="36" alt="Bash" /></a>
+<a href="https://www.git.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" width="36" height="36" alt="Git" /></a>
 <a href="https://www.microsoft.com/hr-hr/" target="_blank" rel="noreferrer"><img src="https://evo.audio/wp-content/uploads/2016/05/Windows-10-Icon.png" width="36" height="36" alt="Ubuntu" /></a>
+<a href="https://learn.microsoft.com/en-us/windows/wsl/" target="_blank" rel=noreferrer"><img src="https://winaero.com/blog/wp-content/uploads/2019/02/Windows-10-Linux-Icon.png" width="36" height="36" alt="VSCode" /></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg" width="36" height="36" alt="Ubuntu" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel=noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="36" height="36" alt="VSCode" /></a>
-<a href="https://learn.microsoft.com/en-us/windows/wsl/" target="_blank" rel=noreferrer"><img src="https://winaero.com/blog/wp-content/uploads/2019/02/Windows-10-Linux-Icon.png" width="36" height="36" alt="VSCode" /></a>
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://banner2.cleanpng.com/20180629/hjt/kisspng-latex-tex-live-typesetting-text-editor-tex-5b35eeb289e0b6.1909910215302611705648.jpg" width="46" height="26" alt="Latex" /></a>
-<a href="https://www.git.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" width="36" height="36" alt="Git" /></a>
 <a href="https://www.openfoam.com/" target="_blank" rel="noreferrer"><img src="https://cdn.openfoam.org/wp-content/uploads/2016/05/CFDfoundationLogoDark-600x600.png" width="36" height="36" alt="OpenFOAM" /></a>
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://banner2.cleanpng.com/20180629/hjt/kisspng-latex-tex-live-typesetting-text-editor-tex-5b35eeb289e0b6.1909910215302611705648.jpg" width="46" height="26" alt="Latex" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="36" height="36" alt="Blender" /></a>
 
 </p>
