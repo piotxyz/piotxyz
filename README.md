@@ -27,7 +27,7 @@
 <a href="https://www.researchgate.net/profile/Patrick-Otoole-2" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="32" height="32" /></a> 
 
 
-#<b>My GitHub Stats</b>
+[//]: # <b>My GitHub Stats</b>
 
-#<a href="http://www.github.com/piotxyz"><img src="https://github-readme-stats.vercel.app/api?username=piotxyz&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="piotxyz's GitHub stats" /></a>
-#<a href="https://github.com/piotxyz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotxyz&langs_count=10&title_color=black&text_color=black&icon_color=0891b2&bg_color=white&hide_border=true&locale=en&custom_title=Top%20%Languages" #alt="Top Languages" /></a>
+[//]: # <a href="http://www.github.com/piotxyz"><img src="https://github-readme-stats.vercel.app/api?username=piotxyz&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="piotxyz's GitHub stats" /></a>
+[//]: # <a href="https://github.com/piotxyz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/username=piotxyz&langs_count=10&title_color=black&text_color=black&icon_color=0891b2&bg_color=white&hide_border=true&locale=en&custom_title=Top%20%Languages" #alt="Top Languages" /></a>
