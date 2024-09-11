@@ -8,7 +8,7 @@
 ### Skills
 
 <p align="left">
-<a href="https://www.openfoam.com/" target="_blank" rel="noreferrer"><img src="https://cdn.openfoam.org/wp-content/uploads/2016/05/CFDfoundationLogoDark-600x600.png" width="86" height="46" alt="OpenFOAM" /></a>
+<a href="https://www.openfoam.com/" target="_blank" rel="noreferrer"><img src="https://cdn.openfoam.org/wp-content/uploads/2016/05/CFDfoundationLogoDark-600x600.png" width="36" height="36" alt="OpenFOAM" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://banner2.cleanpng.com/20180629/hjt/kisspng-latex-tex-live-typesetting-text-editor-tex-5b35eeb289e0b6.1909910215302611705648.jpg" width="46" height="26" alt="Latex" /></a>
